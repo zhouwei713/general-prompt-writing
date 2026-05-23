@@ -2,7 +2,7 @@
 
 一个面向 Agent 的通用 Prompt 编写 Skill，用于把粗糙需求整理成结构完整、目标明确、可直接执行的高质量 Prompt。
 
-这个 Skill 保留了原始的中文方法论内容，并在 `SKILL.md` 顶部补充了 Agent 可识别的安装元信息和使用说明，适合安装到 Codex、Claude Code 或其他支持 Skill 目录结构的 Agent 环境中。
+这个 Skill 适合安装到 Codex、Claude Code 或其他支持 Skill 目录结构的 Agent 环境中。
 
 ## 能力概览
 
