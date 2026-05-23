@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用 Prompt 编写"
+  short_description: "根据通用方法编写优化评估各类高质量 Prompt 模板"
+  default_prompt: "Use $general-prompt-writing to write a high quality prompt from my rough requirement."
